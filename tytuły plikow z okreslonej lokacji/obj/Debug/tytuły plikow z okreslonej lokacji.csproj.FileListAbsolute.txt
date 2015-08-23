@@ -1,0 +1,8 @@
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\bin\Debug\tytuły plikow z okreslonej lokacji.exe
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\bin\Debug\tytuły plikow z okreslonej lokacji.pdb
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\obj\Debug\tytuły plikow z okreslonej lokacji.csproj.GenerateResource.Cache
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\obj\Debug\tytuły plikow z okreslonej lokacji.exe
+C:\Users\Korytko\Desktop\Programy BT\tytuły plikow z okreslonej lokacji\tytuły plikow z okreslonej lokacji\obj\Debug\tytuły plikow z okreslonej lokacji.pdb
